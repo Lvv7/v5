@@ -253,7 +253,8 @@ export sem=$( curl -s https://raw.githubusercontent.com/Lvv7/v5/main/versions)
 export pak=$( cat /home/.ver)
 IPVPS=$(curl -s ipinfo.io/ip )
 clear
-figlet 'LORD FREEDOM'
+figlet 'LORD'
+figlet 'FREEDOM'
 echo -e "${BIPurple} ┌─────────────────────────────────────────────────────┐${NC}"
 echo -e "${BIPurple} │                  ${BIWhite}${UWhite}LORD-FREEDOM${NC}"
 echo -e "${BIPurple} │"
