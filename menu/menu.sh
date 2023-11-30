@@ -313,7 +313,7 @@ case $opt in
 8) clear ; add-host ;;
 9) clear ; running ;;
 10) clear ; clear ; wget --load-cookies /tmp/cookies.txt ${UDPX} -O install-udp && rm -rf /tmp/cookies.txt && chmod +x install-udp && ./install-udp ;;
-11) clear ; xolpanel ;;
+11) clear ; wget https://raw.githubusercontent.com/Lvv7/main/kyt.sh && chmod +x kyt.sh && ./kyt.sh ;;
 12) clear ; lock ;;
 13) clear ; unlock ;;
 14) clear ; update ;;
